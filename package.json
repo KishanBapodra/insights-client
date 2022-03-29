@@ -24,7 +24,7 @@
   },
   "scripts": {
     "devstart": "set PORT=80 && react-scripts start",
-    "start": "npm run build && serve -s build",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "sync": "git fetch upstream && git merge upstream/master && git push -f origin master"

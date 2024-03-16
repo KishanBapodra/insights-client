@@ -2,21 +2,12 @@
 ## Community-oriented platform for writers to create and publish text-based content in real-time with other writers.
 Frontend for [Insights virtual-space server](https://github.com/farhansolodev/insights-server).
 
+#### Community Page
+<img width="1264" alt="Screenshot 2024-03-16 at 4 01 42 PM" src="https://github.com/KishanBapodra/insights-client/assets/60054955/80488ce5-6fb0-4ca3-a25a-e6f859ccccf8">
 
-## Available Scripts
+#### Your Communities Page
+<img width="1272" alt="Screenshot 2024-03-16 at 4 01 26 PM" src="https://github.com/KishanBapodra/insights-client/assets/60054955/c4cdab73-5a3f-49c4-a418-b54f1ab250a5">
 
-In the project directory, you can run:
 
-### `npm start`
-
-Runs the app in the development mode.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.
+#### Profile Page
+<img width="1279" alt="Screenshot 2024-03-16 at 4 01 18 PM" src="https://github.com/KishanBapodra/insights-client/assets/60054955/1d40bc0d-9973-4b7c-bd86-1ec99a80a943">
